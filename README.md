@@ -5,6 +5,8 @@ A variety of beginner Java projects to work on to improve your programming skill
 
   - Make sure you have git installed from [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git/)
   - Run `git clone https://github.com/SJUSATA/Java-Projects.git` in your Terminal or Command Prompt
+  
+  - If git isn't working for you, simply click on the green button that says 'Code' and then download the zip file
 
 Links to Step-by-Step Tutorials on YouTube:
 
