@@ -19,7 +19,7 @@ A variety of beginner Java projects to work on to improve your programming skill
 
   - [Budget Allocation](https://www.youtube.com/watch?v=uZDuvMo-4pU&list=PLtQo0sxRN7JKKla3_GAF05dySjyy3nINa&index=2)
   
-  - [Password Generator[1]](https://mkyong.com/java/java-password-generator-example/), and [2](https://www.geeksforgeeks.org/generating-password-otp-java/)
+  - [Password Generator [1]](https://mkyong.com/java/java-password-generator-example/), and [[2]](https://www.geeksforgeeks.org/generating-password-otp-java/)
   
   - [Hangman](https://www.youtube.com/watch?v=VRN6cgv59Ak)
   
