@@ -22,4 +22,6 @@ A variety of beginner Java projects to work on to improve your programming skill
   - [Password Generator](https://mkyong.com/java/java-password-generator-example/)
   
   - [Hangman](https://www.youtube.com/watch?v=VRN6cgv59Ak)
+  
+  - [Text Editor](https://www.youtube.com/watch?v=NKjqAQAtq-g)
 
