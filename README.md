@@ -1,5 +1,5 @@
 # Java-Projects
-A variety of beginner Java projects to work on to improve your programming skills!
+A variety of beginner Java projects to work on to improve your programming skills and boost your resume!
 
 **How to download the Code:**
 
