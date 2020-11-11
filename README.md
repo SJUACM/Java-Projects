@@ -9,7 +9,7 @@ A variety of beginner Java projects to work on to improve your programming skill
   - If git isn't working for you, simply click on the green button that says 'Code' and then download the zip file
 
 
-**Links to Step-by-Step Tutorials on YouTube:**
+**Links to Step-by-Step Tutorials:**
 
   - [Pong](https://www.youtube.com/watch?v=oLirZqJFKPE)
 
@@ -18,3 +18,6 @@ A variety of beginner Java projects to work on to improve your programming skill
   - [TicTacToe](https://www.youtube.com/watch?v=3KM6Q0TFC28)
 
   - [Budget Allocation](https://www.youtube.com/watch?v=uZDuvMo-4pU&list=PLtQo0sxRN7JKKla3_GAF05dySjyy3nINa&index=2)
+  
+  - [Password Generator](https://mkyong.com/java/java-password-generator-example/)
+
