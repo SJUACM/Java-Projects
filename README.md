@@ -8,7 +8,8 @@ A variety of beginner Java projects to work on to improve your programming skill
   
   - If git isn't working for you, simply click on the green button that says 'Code' and then download the zip file
 
-Links to Step-by-Step Tutorials on YouTube:
+
+**Links to Step-by-Step Tutorials on YouTube:**
 
   - [Pong](https://www.youtube.com/watch?v=oLirZqJFKPE)
 
