@@ -4,7 +4,7 @@ A variety of beginner Java projects to work on to improve your programming skill
 
 ![sata java projects ](https://user-images.githubusercontent.com/43652410/98973533-dda8c980-24e1-11eb-8193-c766710599e8.jpg)
 
-**How to download the Code:**
+## **How to download the Code:**
 
   - Make sure you have git installed from [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git/)
   - Run `git clone https://github.com/SJUSATA/Java-Projects.git` in your Terminal or Command Prompt
@@ -12,7 +12,7 @@ A variety of beginner Java projects to work on to improve your programming skill
   - If git isn't working for you, simply click on the green button that says 'Code' and then download the zip file
 
 
-**Links to Step-by-Step Tutorials:**
+## **Links to Step-by-Step Tutorials:**
 
   - [Pong](https://www.youtube.com/watch?v=oLirZqJFKPE)
 
