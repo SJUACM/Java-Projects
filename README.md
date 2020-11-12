@@ -1,5 +1,5 @@
 # Java-Projects
-A variety of beginner Java projects to work on to improve your programming skills and boost your resume!
+A variety of Java projects to work on to improve your programming skills and boost your resume!
 
 
 ![sata java projects ](https://user-images.githubusercontent.com/43652410/98973533-dda8c980-24e1-11eb-8193-c766710599e8.jpg)
