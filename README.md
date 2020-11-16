@@ -7,6 +7,7 @@ A variety of Java projects to work on to improve your programming skills and boo
 ## **How to download the Code:**
 
   - Make sure you have git installed from [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git/)
+  
   - Run `git clone https://github.com/SJUSATA/Java-Projects.git` in your Terminal or Command Prompt
   
   - If git isn't working for you, simply click on the green button that says 'Code' and then download the zip file
@@ -15,7 +16,9 @@ A variety of Java projects to work on to improve your programming skills and boo
 ## **How to Run the Code:**
 
   - Make a new java project in your designated IDE (Netbeans, Eclipse, etc.) 
+  
   - Place all the files you downloaded for a certain project from this repository into the src folder of the new java project you created
+  
   - Run the file that has a main method (Check the YouTube tutorial if you are not sure)
 
 ## **Links to Step-by-Step Tutorials:**
