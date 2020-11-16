@@ -12,7 +12,7 @@ A variety of Java projects to work on to improve your programming skills and boo
   - If git isn't working for you, simply click on the green button that says 'Code' and then download the zip file
 
 
-## **How to Run the Code**
+## **How to Run the Code:**
 
   - Make a new java project in your designated IDE (Netbeans, Eclipse, etc.) 
   - Place all the files you downloaded for a certain project from this repository into the src folder of the new java project you created
